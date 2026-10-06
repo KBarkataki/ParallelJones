@@ -5,9 +5,7 @@ python package to evaluate Jones polynomial of curves in 3 space
 
 If you use this code, please cite the following paper:
 
-**Kasturi Barkataki and Eleni Panagiotou. A parallel algorithm for the exact computation of the Jones polynomial. (In final stages of Preparation), 2025.**
-
-Visit https://www.elenipanagiotou.com/ for updated information.
+**K. Barkataki, & E. Panagiotou,  A parallel algorithm for the computation of the Jones polynomial, Proc. Natl. Acad. Sci. U.S.A. 123 (17) e2520332123, https://doi.org/10.1073/pnas.2520332123 (2026).**
 
 ---
 
